@@ -1,0 +1,18 @@
+﻿@{
+    Layout = "../_Layout.cshtml";
+}
+    <div class="container-fluid main-container">
+      <div class="row-fluid main-block">
+          <div class="span1 white-space">&nbsp;</div>
+
+          <div class="span4 control-block">
+              <!--Сontrol panel-->
+              @Html.Partial("Partials/PartialControls")
+          </div>
+          
+          <div class="span7 map-block">
+              <!--Body content-->
+              @Html.Partial("Partials/PartialMap")
+          </div>
+      </div>
+    </div>

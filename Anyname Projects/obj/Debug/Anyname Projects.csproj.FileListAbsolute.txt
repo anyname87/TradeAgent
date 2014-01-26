@@ -1,0 +1,65 @@
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\Anyname Projects.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\Anyname Projects.pdb
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\Newtonsoft.Json.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Net.Http.Formatting.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Helpers.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Http.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Http.WebHost.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Mvc.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Razor.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.WebPages.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\Newtonsoft.Json.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Net.Http.Formatting.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Helpers.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Http.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Http.WebHost.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Mvc.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Razor.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.WebPages.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\obj\Debug\Anyname Projects.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\obj\Debug\Anyname Projects.pdb
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\Antlr3.Runtime.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Optimization.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\WebGrease.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\Antlr3.Runtime.pdb
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\System.Web.Optimization.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\EntityFramework.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\EntityFramework.SqlServer.dll
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\EntityFramework.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\bin\EntityFramework.SqlServer.xml
+C:\Projects\Anyname Projects\Anyname Projects\Anyname Projects\obj\Debug\Anyname Projects.csprojResolveAssemblyReference.cache
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\Anyname Projects.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\Anyname Projects.pdb
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\Antlr3.Runtime.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\Newtonsoft.Json.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Net.Http.Formatting.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Helpers.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Http.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Http.WebHost.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Mvc.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Optimization.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Razor.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.WebPages.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\WebGrease.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\Antlr3.Runtime.pdb
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\Newtonsoft.Json.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Optimization.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Net.Http.Formatting.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Helpers.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Http.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Http.WebHost.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Mvc.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.Razor.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.WebPages.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\obj\Debug\Anyname Projects.dll
+C:\Projects\Trade agent\Trade Agent\Anyname Projects\obj\Debug\Anyname Projects.pdb
